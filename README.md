@@ -1,6 +1,6 @@
 # Hi!
 
-## About me
+## - About me
 
 
 ## Languages and tools
