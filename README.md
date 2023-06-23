@@ -3,7 +3,7 @@ Hi! I'm Sofia.
 </h1>
 
 ## About me
-- :computer:  I’m currently studying Computer Science at CESAR School! (2/8 semesters)
+- :computer: Currently studying Computer Science (2/8) at CESAR School.
 - 🌱 I’m currently learning Web Development with Django and JavaScript
   
 ## Languages and tools
