@@ -1,5 +1,5 @@
 <h1 align="center">
-Hi!
+Hi! I'm Sofia.
 </h1>
 
 ## About me
