@@ -1,4 +1,6 @@
+<p align="center">
 # Hi!
+</p>
 
 ## About me
 - 🔭 I’m currently studying Computer Science at CESAR School! (2/8 semesters)
