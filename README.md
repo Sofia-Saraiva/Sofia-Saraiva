@@ -9,4 +9,4 @@
 
 
 ## Contact me
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedln" href="https://www.linkedin.com/in/sofia-saraiva-0a73ba22a/">
+<a href="https://www.linkedin.com/in/sofia-saraiva-0a73ba22a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedln"></a>
