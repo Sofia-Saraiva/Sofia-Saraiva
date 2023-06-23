@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi!
 
 - 🔭 I’m currently studying Computer Science at CESAR School
 - 🌱 I’m currently learning Web Development with Django and JavaScript
