@@ -5,7 +5,12 @@ Hi! I'm Sofia.
 ## About me
 - :computer: Currently studying Computer Science (2/8) at CESAR School.
 - 🌱 I’m currently learning Web Development with Django and JavaScript
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/Sofia-Saraivaanuraghazra&layout=compact)
+<div align="right">
+     <a href="https://github.com/Matheus-Rian">
+        <img height="180em" src="https://gh-readme-matheusrian.vercel.app/api/top-langs/?username=Sofia-Saraiva&hide=html&layout=compact&&show_icons=true&line_height=27&count_private=true&theme=radical"
+        alt="Linguagens mais usadas" align="right">
+    </a>
+</div>
 
 ## Languages and tools
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="python">  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="flask">  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="c">  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github">  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="notion">  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vscode">
