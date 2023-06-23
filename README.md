@@ -1,7 +1,7 @@
 # Hi!
 
 ## About me
-- 🔭 I’m currently studying Computer Science at CESAR School
+- 🔭 I’m currently studying Computer Science at CESAR School! (2/8 semesters)
 - 🌱 I’m currently learning Web Development with Django and JavaScript
   
 ## Languages and tools
