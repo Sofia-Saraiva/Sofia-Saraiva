@@ -12,7 +12,7 @@ Hi! I'm Sofia.
 
 ## Most Useds languages
 <a href="https://github.com/thomazrlima%22%3E
-    <img align="left" height="150em" src="http://git-stats-definitive.vercel.app/api/top-langs/?username=Sofia-Saraiva&layout=compact&theme=tokyonight%22/%3E
+    <img align="left" height="150em" src="[http://git-stats-definitive.vercel.app/api/top-langs/?username=Sofia-Saraiva&layout=compact&theme=tokyonight%22/%3E](https://git-stats-definitive.vercel.app/api/top-langs/?username=Sofia-Saraiva&layout=compact&theme=tokyonight">
 </a>
 
 ## Contact me
