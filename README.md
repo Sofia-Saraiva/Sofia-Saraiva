@@ -1,10 +1,13 @@
 <h1 align="center">
 Hi! I'm Sofia.
+<a href="https://www.linkedin.com/in/sofia-saraiva-0a73ba22a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedln"></a>
+<a href="mailto:sofiasaraivalima@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"></a>
+                                                                                                                                                                       
 </h1>
 
 ## About me
 - :computer: Studying Computer Science(2/8) at CESAR School.
-- 🌱 I’m currently learning about Web Development with `Python` and `JavaScript`.
+- 🌱 I’m currently learning: `C` and Web Development with `Django`.
 
 ## Languages and tools
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="python">  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="flask">  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="c">  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="sqlite">  
