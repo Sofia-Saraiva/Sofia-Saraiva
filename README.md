@@ -2,16 +2,9 @@
 Hi! I'm Sofia.
 </h1>
 
-<p align='center'>
-
-</p>
-<div align="center">
-<b>Contact me</b>
-
 <div align="center"> 
   <a href="https://www.linkedin.com/in/sofia-saraiva-0a73ba22a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedln"></a>
   <a href="mailto:sofiasaraivalima@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"></a>                                                         
-</div>
 </div>
 
 ## About me
