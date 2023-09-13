@@ -1,12 +1,9 @@
 <h1 align="center">
 Hi! I'm Sofia.
-<a href="https://www.linkedin.com/in/sofia-saraiva-0a73ba22a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedln"></a>
-<a href="mailto:sofiasaraivalima@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"></a>
-                                                                                                                                                                       
 </h1>
 
 ## About me
-- :computer: Studying Computer Science(2/8) at CESAR School.
+- :computer: Studying Computer Science (2/8) at CESAR School.
 - 🌱 I’m currently learning: `C` and Web Development with `Django`.
 
 ## Languages and tools
