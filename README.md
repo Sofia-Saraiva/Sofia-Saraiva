@@ -20,7 +20,7 @@ Hi! I'm Sofia.
 [![Kolekto](https://github-readme-stats.vercel.app/api/pin/?username=P-E-N-T-E-S&repo=Kolekto&title_color=C9D1D9&icon_color=8B949E&text_color=8B949E&bg_color=0D1117)](https://github.com/P-E-N-T-E-S/Kolekto)
 
 
-## Most Useds languages
+## Most Used Languages
 
 <a href="https://github.com/thomazrlima">
     <img align="left" height="150em" src="http://git-stats-definitive.vercel.app/api/top-langs/?username=Sofia-Saraiva&layout=compact&theme=tokyonight"/>
