@@ -17,7 +17,8 @@ Hi! I'm Sofia.
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github">  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="notion">  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vscode">  <img src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white" alt="replit"> 
 
 ## Developer of
-[![Kolekto](https://github-readme-stats.vercel.app/api/pin/?username=P-E-N-T-E-S&repo=Kolekto&title_color=C9D1D9&icon_color=8B949E&text_color=8B949E&bg_color=0D1117)](https://github.com/P-E-N-T-E-S/Kolekto) [![Kolekto](https://github-readme-stats.vercel.app/api/pin/?username=P-E-N-T-E-S&repo=Pong2&title_color=C9D1D9&icon_color=8B949E&text_color=8B949E&bg_color=0D1117)](https://github.com/P-E-N-T-E-S/Pong2) 
+[![Kolekto](https://github-readme-stats.vercel.app/api/pin/?username=P-E-N-T-E-S&repo=Kolekto&title_color=C9D1D9&icon_color=8B949E&text_color=8B949E&bg_color=0D1117)](https://github.com/P-E-N-T-E-S/Kolekto) [![Pong2](https://github-readme-stats.vercel.app/api/pin/?username=P-E-N-T-E-S&repo=Pong2&title_color=C9D1D9&icon_color=8B949E&text_color=8B949E&bg_color=0D1117)](https://github.com/P-E-N-T-E-S/Pong2) [![Pris.ME](https://github-readme-stats.vercel.app/api/pin/?username=P-E-N-T-E-S&repo=Pris.ME&title_color=C9D1D9&icon_color=8B949E&text_color=8B949E&bg_color=0D1117)](https://github.com/P-E-N-T-E-S/Pris.ME)
+
 
 
 
