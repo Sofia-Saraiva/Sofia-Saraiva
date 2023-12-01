@@ -8,7 +8,7 @@ Hi! I'm Sofia.
 </div>
 
 ## About me
-- :computer: Studying Computer Science (2/8) at CESAR School.
+- :computer: Studying Computer Science (3/8) at CESAR School.
 - 🌱 I’m currently learning: `C` and Web Development with `Django`.
 
 ## Languages and tools
