@@ -2,10 +2,8 @@
 Hi! I'm Sofia.
 </h1>
 
-<div align="center">
-  <a href="https://sofia-saraiva.github.io"><img src="https://img.shields.io/badge/MY%20PORTFOLIO-8A2BE2" alt="portfolio"></a>
-</div>
 <div align="center"> 
+  <a href="https://sofia-saraiva.github.io"><img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=About.me&logoColor=white" alt="portfolio"></a>
   <a href="https://www.linkedin.com/in/sofia-saraiva-0a73ba22a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedln"></a>
   <a href="mailto:sofiasaraivalima@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"></a>
 </div>
