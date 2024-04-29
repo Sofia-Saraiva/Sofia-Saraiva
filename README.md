@@ -26,7 +26,7 @@ Hi! I'm Sofia.
 
 ## Most Used Languages
 
-<a href="https://github.com/thomazrlima">
+<a href="https://github.com/Sofia-Saraiva">
     <img align="left" height="150em" src="http://git-stats-definitive.vercel.app/api/top-langs/?username=Sofia-Saraiva&layout=compact&theme=tokyonight"/>
 </a>
 
