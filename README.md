@@ -20,16 +20,16 @@
 
 ## Developer of
   <a href="https://github.com/P-E-N-T-E-S/Kolekto" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=P-E-N-T-E-S&theme=dracula&repo=Kolekto" width="40%" alt="Kolekto"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=P-E-N-T-E-S&theme=dracula&repo=Kolekto" width="50%" alt="Kolekto"/>
   </a>
   <a href="https://github.com/P-E-N-T-E-S/Pris.ME" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=P-E-N-T-E-S&theme=dracula&repo=Pris.ME" width="40%" alt="Prisme"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=P-E-N-T-E-S&theme=dracula&repo=Pris.ME" width="50%" alt="Prisme"/>
   </a>
   <a href="https://github.com/P-E-N-T-E-S/Mario_Is_Missing" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=P-E-N-T-E-S&theme=dracula&repo=Mario_Is_Missing" width="40%" alt="Mario Is Missing"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=P-E-N-T-E-S&theme=dracula&repo=Mario_Is_Missing" width="50%" alt="Mario Is Missing"/>
   </a>
   <a href="https://github.com/P-E-N-T-E-S/Mario_Is_Missing" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sofia-Saraiva&theme=dracula&repo=Virtual-Memory-Manager" width="40%" alt="Virtual Memory Manager"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sofia-Saraiva&theme=dracula&repo=Virtual-Memory-Manager" width="50%" alt="Virtual Memory Manager"/>
   </a>
 
 ## Stats
