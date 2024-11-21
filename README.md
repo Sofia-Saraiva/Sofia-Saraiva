@@ -9,8 +9,8 @@
 </div>
 
 ## About me
-- :computer: Studying Computer Science (4/8) at CESAR School.
 - 🖱️ Software Developer Intern at CESAR.
+- :computer: Studying Computer Science (4/8) at CESAR School.
 - 🌱 I’m currently learning: `Java`, `Springboot` and `React`.
 
 ## Languages and tools
