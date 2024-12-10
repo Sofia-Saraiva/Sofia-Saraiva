@@ -9,9 +9,9 @@
 </div>
 
 ## About me
-- 🖱️ Software Developer Intern at CESAR.
-- :computer: Studying Computer Science (4/8) at CESAR School.
-- 🌱 I’m currently learning: `Java`, `Springboot` and `React`.
+- 🖱️ Software Engineer Intern at CESAR.
+- :computer: Studying Computer Science (5/8) at CESAR School.
+- 🌱 I’m currently learning: `Springboot` and `React`.
 
 ## Languages and tools
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="python">  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="flask">  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green"> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="c">  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="java"> <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="sqlite"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3">
