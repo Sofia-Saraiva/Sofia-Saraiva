@@ -29,7 +29,7 @@
   <a href="https://github.com/P-E-N-T-E-S/Mario_Is_Missing" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=P-E-N-T-E-S&theme=dracula&repo=Mario_Is_Missing" width="48%" alt="Mario Is Missing"/>
   </a>
-  <a href="https://github.com/P-E-N-T-E-S/Mario_Is_Missing" target="_blank">
+  <a href="https://github.com/Sofia-Saraiva/Virtual-Memory-Manager" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sofia-Saraiva&theme=dracula&repo=Virtual-Memory-Manager" width="48%" alt="Virtual Memory Manager"/>
   </a>
 
